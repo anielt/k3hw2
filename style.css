@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=Caveat');
+h1{
+    font-family: Caveat, cursive;
+    text-align: center;
+    font-size: 35px;
+    color: #ff0022;
+    text-shadow: rgb(0, 0, 0) 2px 2px 2px;
+}
